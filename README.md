@@ -1,1 +1,1 @@
-![CI](https://github.com/khomiakovnn/DOM/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/cuypfkl2jhqiaefw/branch/main?svg=true)](https://ci.appveyor.com/project/khomiakovnn/dom/branch/main)
